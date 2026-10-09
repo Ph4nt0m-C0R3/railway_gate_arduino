@@ -2,6 +2,8 @@
 
 A **Semester II Arduino group project** at the University of Information Technology (Group 4, Section B). This tabletop prototype demonstrates a railway crossing that reacts to two infrared sensors and controls two barriers, traffic LEDs, and a buzzer.
 
+**Development:** ARGS was assigned as group coursework. Aung Myo Pyae wrote the Arduino implementation individually.
+
 ## Screenshots
 
 ![Automatic Railway Gate System — prototype photo 1](docs/screenshots/ARGS-1.jpg)
@@ -66,4 +68,4 @@ The project demonstrates digital inputs/outputs, servo control, serial debugging
 
 ## Credits
 
-Semester II Group 4, Section B project; Aung Myo Pyae is a project contributor. Large archive copies and demonstration videos are omitted from this source repository.
+Semester II Group 4, Section B project; The Arduino implementation was written individually by Aung Myo Pyae. Large archive copies and demonstration videos are omitted from this source repository.
