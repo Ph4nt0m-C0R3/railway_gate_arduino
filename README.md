@@ -2,6 +2,10 @@
 
 A **Semester II Arduino group project** at the University of Information Technology (Group 4, Section B). This tabletop prototype demonstrates a railway crossing that reacts to two infrared sensors and controls two barriers, traffic LEDs, and a buzzer.
 
+**Project type:** Group project (solo developed)
+
+**Project leader:** Aung Myo Pyae
+
 **Development:** ARGS was assigned as group coursework. Aung Myo Pyae wrote the Arduino implementation individually.
 
 ## Screenshots
