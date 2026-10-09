@@ -2,6 +2,12 @@
 
 A **Semester II Arduino group project** at the University of Information Technology (Group 4, Section B). This tabletop prototype demonstrates a railway crossing that reacts to two infrared sensors and controls two barriers, traffic LEDs, and a buzzer.
 
+## Screenshots
+
+![Automatic Railway Gate System — prototype photo 1](docs/screenshots/ARGS-1.jpg)
+
+![Automatic Railway Gate System — prototype photo 2](docs/screenshots/ARGS-2.jpg)
+
 ## Main components
 
 - Arduino-compatible board and the Arduino Servo library.
